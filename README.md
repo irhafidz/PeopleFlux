@@ -26,7 +26,7 @@ In Python, many libraries are useful for creating geovis for map, for example ge
 
 [PyShp](https://pypi.org/project/pyshp/) is a python shapefile library that will reads and writes ESRI shapefiles in Python. To install Python shapefile library (PyShp) in [Anaconda prompt](https://anaconda.org/conda-forge/pyshp) for Jupyter:
 
-`<addr>` conda install -c conda-forge pyshp
+`<conda install -c conda-forge pyshp>` 
 
 
 
