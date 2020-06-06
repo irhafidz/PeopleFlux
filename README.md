@@ -7,6 +7,8 @@ The UK government Office for National Stat # Welcome to Nomis
 
 Nomis is a service provided by the Office for National Statistics, ONS, to give you free access to the most detailed and up-to-date UK labour market statistics from official sources.
 
+Origin-destination data (also known as flow data) will include the travel-to-work and migration patterns of individuals, cross-tabulated by variables of interest (for example occupation). New products for the 2011 Census will also provide the migration patterns of those living at a student address one year ago and provide information on individuals with second residences.
+
 
 
 
@@ -85,6 +87,6 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjQwODMsLTE0OTU5OTAwNjUsLTk1MT
-Q1NDMzMF19
+eyJoaXN0b3J5IjpbLTE2ODE1ODQ2MDksLTE0OTU5OTAwNjUsLT
+k1MTQ1NDMzMF19
 -->
