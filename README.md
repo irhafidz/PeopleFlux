@@ -1,7 +1,7 @@
 # PeopleFlux
 
 ##About
-Mapping people flux d
+Mapping people flux data from 
 
 
 
@@ -82,5 +82,5 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc3NTg2MDUsLTk1MTQ1NDMzMF19
+eyJoaXN0b3J5IjpbLTE0OTU5OTAwNjUsLTk1MTQ1NDMzMF19
 -->
