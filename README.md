@@ -1,8 +1,9 @@
 # PeopleFlux
 
-##About
-Mapping people flux data from 
+##About dataset
+The UK government Office for National Stat # Welcome to Nomis
 
+Nomis is a service provided by the Office for National Statistics, ONS, to give you free access to the most detailed and up-to-date UK labour market statistics from official sources.
 
 
 
@@ -82,5 +83,6 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU5OTAwNjUsLTk1MTQ1NDMzMF19
+eyJoaXN0b3J5IjpbMTkxNzg3ODYxNywtMTQ5NTk5MDA2NSwtOT
+UxNDU0MzMwXX0=
 -->
