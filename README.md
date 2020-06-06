@@ -1,4 +1,37 @@
 # PeopleFlux
+
+##About
+Mapping people flux d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Mapping Geograph and Heatmap in Python
 
 To start, I was learning from 
@@ -49,5 +82,5 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTQ1NDMzMF19
+eyJoaXN0b3J5IjpbLTIxMTc3NTg2MDUsLTk1MTQ1NDMzMF19
 -->
