@@ -3,7 +3,7 @@
 ## About dataset
 
 The dataset is from dataset: https://www.nomisweb.co.uk/census/2011/origin_destination Nomis is an open access data from the Office for National Statistics (ONS) for UK labour market statistics from official sources.
-The dataset 
+The dataset name is RF03EW - Location of usual residence and place of work. 
 
 ## Creating Map
 
@@ -13,15 +13,10 @@ from the ONS Geoportal http://geoportal.statistics.gov.uk/
 3. Export it to GeoJSON file
 
 Library or Package needed
-geopandas
-pandas
-matplotlib
-descartes
 
-Installation
+geopandas pandas matplotlib descartes pandas
 
-    conda install geopandas
-    conda install descartes
+
 
 
 
@@ -103,8 +98,8 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjE1MDM0MCwxMDI1NzIzMDY3LC0yMT
-EyMzUzNDY4LDEyNTc5NTAyNzIsMzExMDk5NDUyLDE0NTIwODA4
-MzMsMTQ1MzQ5NTYwLC0xNjgxNTg0NjA5LC0xNDk1OTkwMDY1LC
-05NTE0NTQzMzBdfQ==
+eyJoaXN0b3J5IjpbMzgyMDA1ODkwLDEwMjU3MjMwNjcsLTIxMT
+IzNTM0NjgsMTI1Nzk1MDI3MiwzMTEwOTk0NTIsMTQ1MjA4MDgz
+MywxNDUzNDk1NjAsLTE2ODE1ODQ2MDksLTE0OTU5OTAwNjUsLT
+k1MTQ1NDMzMF19
 -->
