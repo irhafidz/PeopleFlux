@@ -35,6 +35,7 @@ To use KeplerGL, I need to install [NodeJS](https://nodejs.org/en/download/), se
     conda install -c conda-forge nodejs
     pip install keplergl
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+https://stackoverflow.com/questions/35940880/how-to-compare-two-string-variables-in-pandas
 
 
   
@@ -43,10 +44,10 @@ https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIwMjQ5MzcsNDcxMDY0MzIwLDEzMz
-E1MjA4NzUsMTQwNDQ2MDIyNywxOTAyNTMzNDI3LC0yMDYwNzkz
-MzYyLC0xMTAxOTMwNjMsMTAyNTcyMzA2NywtMjExMjM1MzQ2OC
-wxMjU3OTUwMjcyLDMxMTA5OTQ1MiwxNDUyMDgwODMzLDE0NTM0
-OTU2MCwtMTY4MTU4NDYwOSwtMTQ5NTk5MDA2NSwtOTUxNDU0Mz
-MwXX0=
+eyJoaXN0b3J5IjpbLTMxOTE1MjYwMSw0NzEwNjQzMjAsMTMzMT
+UyMDg3NSwxNDA0NDYwMjI3LDE5MDI1MzM0MjcsLTIwNjA3OTMz
+NjIsLTExMDE5MzA2MywxMDI1NzIzMDY3LC0yMTEyMzUzNDY4LD
+EyNTc5NTAyNzIsMzExMDk5NDUyLDE0NTIwODA4MzMsMTQ1MzQ5
+NTYwLC0xNjgxNTg0NjA5LC0xNDk1OTkwMDY1LC05NTE0NTQzMz
+BdfQ==
 -->
