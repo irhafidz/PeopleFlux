@@ -13,19 +13,20 @@ from the ONS Geoportal http://geoportal.statistics.gov.uk/
 3. Simplify the map
 4. Export it to GeoJSON file
 
-Library or Package needed:
+Library or Package that I needed:
  1. geopandas  
  2. pandas
  3. matplotlib
  4. descartes
+ 5. mapclassify
 
 ## Making a Map: Plotting a basic map
 
 ## Vis using KeplerGL
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA3OTMzNjIsLTExMDE5MzA2MywxMD
-I1NzIzMDY3LC0yMTEyMzUzNDY4LDEyNTc5NTAyNzIsMzExMDk5
-NDUyLDE0NTIwODA4MzMsMTQ1MzQ5NTYwLC0xNjgxNTg0NjA5LC
-0xNDk1OTkwMDY1LC05NTE0NTQzMzBdfQ==
+eyJoaXN0b3J5IjpbMTkwMjUzMzQyNywtMjA2MDc5MzM2MiwtMT
+EwMTkzMDYzLDEwMjU3MjMwNjcsLTIxMTIzNTM0NjgsMTI1Nzk1
+MDI3MiwzMTEwOTk0NTIsMTQ1MjA4MDgzMywxNDUzNDk1NjAsLT
+E2ODE1ODQ2MDksLTE0OTU5OTAwNjUsLTk1MTQ1NDMzMF19
 -->
