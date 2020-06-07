@@ -1,6 +1,6 @@
 # PeopleFlux
 
-##About dataset
+About dataset
 
 Link to the dataset: https://www.nomisweb.co.uk/census/2011/origin_destination
 The UK government Office for National Stat # Welcome to Nomis
@@ -106,7 +106,8 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTIzNTM0NjgsMTI1Nzk1MDI3MiwzMT
-EwOTk0NTIsMTQ1MjA4MDgzMywxNDUzNDk1NjAsLTE2ODE1ODQ2
-MDksLTE0OTU5OTAwNjUsLTk1MTQ1NDMzMF19
+eyJoaXN0b3J5IjpbOTM5MjA3MTQwLC0yMTEyMzUzNDY4LDEyNT
+c5NTAyNzIsMzExMDk5NDUyLDE0NTIwODA4MzMsMTQ1MzQ5NTYw
+LC0xNjgxNTg0NjA5LC0xNDk1OTkwMDY1LC05NTE0NTQzMzBdfQ
+==
 -->
