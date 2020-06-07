@@ -15,7 +15,11 @@ from the ONS Geoportal http://geoportal.statistics.gov.uk/
 2. Open .shp file in Mapshaper https://mapshaper.org/
 3. Export it to GeoJSON file
 
-Library or 
+Library or Package needed
+geopandas
+pandas
+matplotlib
+
 
 Installation
 
@@ -101,7 +105,7 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTYxNjE1MCwzMTEwOTk0NTIsMTQ1Mj
+eyJoaXN0b3J5IjpbMTI1Nzk1MDI3MiwzMTEwOTk0NTIsMTQ1Mj
 A4MDgzMywxNDUzNDk1NjAsLTE2ODE1ODQ2MDksLTE0OTU5OTAw
 NjUsLTk1MTQ1NDMzMF19
 -->
