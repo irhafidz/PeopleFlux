@@ -9,7 +9,7 @@ Nomis is a service provided by the Office for National Statistics, ONS, to give 
 
 Origin-destination data (also known as flow data) will include the travel-to-work and migration patterns of individuals, cross-tabulated by variables of interest (for example occupation). New products for the 2011 Census will also provide the migration patterns of those living at a student address one year ago and provide information on individuals with second residences.
 
-##About the map
+Creating 
 1. Download map data from Local Authority District https://geoportal.statistics.gov.uk/datasets/local-authority-districts-december-2019-boundaries-uk-bfc 
 from the ONS Geoportal http://geoportal.statistics.gov.uk/
 2. Open .shp file in Mapshaper https://mapshaper.org/
@@ -106,8 +106,8 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTcyMzA2NywtMjExMjM1MzQ2OCwxMj
-U3OTUwMjcyLDMxMTA5OTQ1MiwxNDUyMDgwODMzLDE0NTM0OTU2
-MCwtMTY4MTU4NDYwOSwtMTQ5NTk5MDA2NSwtOTUxNDU0MzMwXX
-0=
+eyJoaXN0b3J5IjpbODQyNDc4MTYsMTAyNTcyMzA2NywtMjExMj
+M1MzQ2OCwxMjU3OTUwMjcyLDMxMTA5OTQ1MiwxNDUyMDgwODMz
+LDE0NTM0OTU2MCwtMTY4MTU4NDYwOSwtMTQ5NTk5MDA2NSwtOT
+UxNDU0MzMwXX0=
 -->
