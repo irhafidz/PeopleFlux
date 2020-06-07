@@ -13,7 +13,7 @@ Origin-destination data (also known as flow data) will include the travel-to-wor
 1. Download map data from Local Authority District https://geoportal.statistics.gov.uk/datasets/local-authority-districts-december-2019-boundaries-uk-bfc 
 from the ONS Geoportal http://geoportal.statistics.gov.uk/
 2. Open .shp file in Mapshaper https://mapshaper.org/
-3. 
+3. Export it to GeoJSON file
 
 
 
@@ -95,7 +95,7 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNzMxNTcsMTQ1MjA4MDgzMywxNDUzND
-k1NjAsLTE2ODE1ODQ2MDksLTE0OTU5OTAwNjUsLTk1MTQ1NDMz
-MF19
+eyJoaXN0b3J5IjpbMzExMDk5NDUyLDE0NTIwODA4MzMsMTQ1Mz
+Q5NTYwLC0xNjgxNTg0NjA5LC0xNDk1OTkwMDY1LC05NTE0NTQz
+MzBdfQ==
 -->
