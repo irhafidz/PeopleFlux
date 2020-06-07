@@ -19,12 +19,20 @@ The Notebook requires `pandas`, `geopandas`, `geoplot`, and `mapclassify` to run
 
 ## Vis using KeplerGL
 To use KeplerGL, I need to install [NodeJS](https://nodejs.org/en/download/), set up some notebook widgets to render Kepler in jupyter notebook. Full instructions for KeplerGL [listed here](https://github.com/keplergl/kepler.gl/tree/master/bindings/kepler.gl-jupyter).
+
+Installation
+
+    pip install keplergl
+
+
+  
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMjU1NzU1LDE0MDQ0NjAyMjcsMTkwMj
-UzMzQyNywtMjA2MDc5MzM2MiwtMTEwMTkzMDYzLDEwMjU3MjMw
-NjcsLTIxMTIzNTM0NjgsMTI1Nzk1MDI3MiwzMTEwOTk0NTIsMT
-Q1MjA4MDgzMywxNDUzNDk1NjAsLTE2ODE1ODQ2MDksLTE0OTU5
-OTAwNjUsLTk1MTQ1NDMzMF19
+eyJoaXN0b3J5IjpbMTMzMTUyMDg3NSwxNDA0NDYwMjI3LDE5MD
+I1MzM0MjcsLTIwNjA3OTMzNjIsLTExMDE5MzA2MywxMDI1NzIz
+MDY3LC0yMTEyMzUzNDY4LDEyNTc5NTAyNzIsMzExMDk5NDUyLD
+E0NTIwODA4MzMsMTQ1MzQ5NTYwLC0xNjgxNTg0NjA5LC0xNDk1
+OTkwMDY1LC05NTE0NTQzMzBdfQ==
 -->
