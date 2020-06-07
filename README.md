@@ -19,11 +19,12 @@ Library or Package needed
 geopandas
 pandas
 matplotlib
-
+descartes
 
 Installation
 
     conda install geopandas
+    conda install descartes
 
 
 
@@ -105,7 +106,7 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzk1MDI3MiwzMTEwOTk0NTIsMTQ1Mj
-A4MDgzMywxNDUzNDk1NjAsLTE2ODE1ODQ2MDksLTE0OTU5OTAw
-NjUsLTk1MTQ1NDMzMF19
+eyJoaXN0b3J5IjpbLTIxMTIzNTM0NjgsMTI1Nzk1MDI3MiwzMT
+EwOTk0NTIsMTQ1MjA4MDgzMywxNDUzNDk1NjAsLTE2ODE1ODQ2
+MDksLTE0OTU5OTAwNjUsLTk1MTQ1NDMzMF19
 -->
