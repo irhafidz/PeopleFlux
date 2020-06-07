@@ -36,7 +36,7 @@ To use KeplerGL, I need to install [NodeJS](https://nodejs.org/en/download/), se
     pip install keplergl
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 https://stackoverflow.com/questions/35940880/how-to-compare-two-string-variables-in-pandas
-
+https://github.com/keplergl/kepler.gl/tree/master/bindings/kepler.gl-jupyter
 
   
 
@@ -44,10 +44,10 @@ https://stackoverflow.com/questions/35940880/how-to-compare-two-string-variables
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTE1MjYwMSw0NzEwNjQzMjAsMTMzMT
-UyMDg3NSwxNDA0NDYwMjI3LDE5MDI1MzM0MjcsLTIwNjA3OTMz
-NjIsLTExMDE5MzA2MywxMDI1NzIzMDY3LC0yMTEyMzUzNDY4LD
-EyNTc5NTAyNzIsMzExMDk5NDUyLDE0NTIwODA4MzMsMTQ1MzQ5
-NTYwLC0xNjgxNTg0NjA5LC0xNDk1OTkwMDY1LC05NTE0NTQzMz
-BdfQ==
+eyJoaXN0b3J5IjpbNDY0NjU5NzU4LC0zMTkxNTI2MDEsNDcxMD
+Y0MzIwLDEzMzE1MjA4NzUsMTQwNDQ2MDIyNywxOTAyNTMzNDI3
+LC0yMDYwNzkzMzYyLC0xMTAxOTMwNjMsMTAyNTcyMzA2NywtMj
+ExMjM1MzQ2OCwxMjU3OTUwMjcyLDMxMTA5OTQ1MiwxNDUyMDgw
+ODMzLDE0NTM0OTU2MCwtMTY4MTU4NDYwOSwtMTQ5NTk5MDA2NS
+wtOTUxNDU0MzMwXX0=
 -->
