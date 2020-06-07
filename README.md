@@ -13,7 +13,20 @@ from the ONS Geoportal http://geoportal.statistics.gov.uk/
 3. Simplify the map
 4. Export it to GeoJSON file
 
-Library or Package that I needed:
+The Notebook requires `pandas`, `geopandas`, `geoplot`, 
+
+    
+
+ - [ ] 
+ - ~~
+
+## ***'descartes'***
+
+~~
+
+and `mapclassify` to run 
+
+You'll also need to install [NodeJS](https://nodejs.org/en/download/) and set up some notebook widgets if you want to render Kepler in your notebook. Full instructions for KeplerGL [are here](https://github.com/keplergl/kepler.gl/tree/master/bindings/kepler.gl-jupyter).
  1. geopandas  
  2. pandas
  3. matplotlib
@@ -24,10 +37,11 @@ Library or Package that I needed:
 
 ## Vis using KeplerGL
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDQ2MDIyNywxOTAyNTMzNDI3LC0yMD
-YwNzkzMzYyLC0xMTAxOTMwNjMsMTAyNTcyMzA2NywtMjExMjM1
-MzQ2OCwxMjU3OTUwMjcyLDMxMTA5OTQ1MiwxNDUyMDgwODMzLD
-E0NTM0OTU2MCwtMTY4MTU4NDYwOSwtMTQ5NTk5MDA2NSwtOTUx
-NDU0MzMwXX0=
+eyJoaXN0b3J5IjpbMjA1NzU1NjAxLDE0MDQ0NjAyMjcsMTkwMj
+UzMzQyNywtMjA2MDc5MzM2MiwtMTEwMTkzMDYzLDEwMjU3MjMw
+NjcsLTIxMTIzNTM0NjgsMTI1Nzk1MDI3MiwzMTEwOTk0NTIsMT
+Q1MjA4MDgzMywxNDUzNDk1NjAsLTE2ODE1ODQ2MDksLTE0OTU5
+OTAwNjUsLTk1MTQ1NDMzMF19
 -->
