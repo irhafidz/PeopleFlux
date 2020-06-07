@@ -14,8 +14,7 @@ from the ONS Geoportal http://geoportal.statistics.gov.uk/
 4. Export it to GeoJSON file
 
 The Notebook requires `pandas`, `geopandas`, `geoplot`, and `mapclassify` to run. Other library I need to install: `descartes`
- 
-## Making a Map: Plotting a basic map
+
 
 ## Vis using KeplerGL
 To use KeplerGL, I need to install [NodeJS](https://nodejs.org/en/download/), set up some notebook widgets to render Kepler in jupyter notebook. Full instructions for KeplerGL [listed here](https://github.com/keplergl/kepler.gl/tree/master/bindings/kepler.gl-jupyter).
@@ -44,10 +43,10 @@ https://github.com/keplergl/kepler.gl/tree/master/bindings/kepler.gl-jupyter
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NjU5NzU4LC0zMTkxNTI2MDEsNDcxMD
-Y0MzIwLDEzMzE1MjA4NzUsMTQwNDQ2MDIyNywxOTAyNTMzNDI3
-LC0yMDYwNzkzMzYyLC0xMTAxOTMwNjMsMTAyNTcyMzA2NywtMj
-ExMjM1MzQ2OCwxMjU3OTUwMjcyLDMxMTA5OTQ1MiwxNDUyMDgw
-ODMzLDE0NTM0OTU2MCwtMTY4MTU4NDYwOSwtMTQ5NTk5MDA2NS
-wtOTUxNDU0MzMwXX0=
+eyJoaXN0b3J5IjpbLTEyMDYwNTEzMjQsNDY0NjU5NzU4LC0zMT
+kxNTI2MDEsNDcxMDY0MzIwLDEzMzE1MjA4NzUsMTQwNDQ2MDIy
+NywxOTAyNTMzNDI3LC0yMDYwNzkzMzYyLC0xMTAxOTMwNjMsMT
+AyNTcyMzA2NywtMjExMjM1MzQ2OCwxMjU3OTUwMjcyLDMxMTA5
+OTQ1MiwxNDUyMDgwODMzLDE0NTM0OTU2MCwtMTY4MTU4NDYwOS
+wtMTQ5NTk5MDA2NSwtOTUxNDU0MzMwXX0=
 -->
