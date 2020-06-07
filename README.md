@@ -2,7 +2,7 @@
 
 ## About dataset
 
-The dataset is from dataset: https://www.nomisweb.co.uk/census/2011/origin_destination Nomis is an open access data from the Office for National Statistics (ONS) for UK labour market statistics from official sources.
+The dataset is from https://www.nomisweb.co.uk/census/2011/origin_destination Nomis is an open access data from the Office for National Statistics (ONS) for UK labour market statistics from official sources.
 The dataset name is RF03EW - Location of usual residence and place of work. 
 
 ## Creating Map
@@ -25,8 +25,9 @@ Library or Package that I needed:
 ## Vis using KeplerGL
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjUzMzQyNywtMjA2MDc5MzM2MiwtMT
-EwMTkzMDYzLDEwMjU3MjMwNjcsLTIxMTIzNTM0NjgsMTI1Nzk1
-MDI3MiwzMTEwOTk0NTIsMTQ1MjA4MDgzMywxNDUzNDk1NjAsLT
-E2ODE1ODQ2MDksLTE0OTU5OTAwNjUsLTk1MTQ1NDMzMF19
+eyJoaXN0b3J5IjpbMTQwNDQ2MDIyNywxOTAyNTMzNDI3LC0yMD
+YwNzkzMzYyLC0xMTAxOTMwNjMsMTAyNTcyMzA2NywtMjExMjM1
+MzQ2OCwxMjU3OTUwMjcyLDMxMTA5OTQ1MiwxNDUyMDgwODMzLD
+E0NTM0OTU2MCwtMTY4MTU4NDYwOSwtMTQ5NTk5MDA2NSwtOTUx
+NDU0MzMwXX0=
 -->
