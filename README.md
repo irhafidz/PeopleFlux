@@ -25,7 +25,8 @@ To use KeplerGL, I need to install [NodeJS](https://nodejs.org/en/download/), se
  - Python >= 2 
  - ipywidgets >= 7.0.0
 
-### Installation KeplerGL
+### Installation NodeJS, KeplerGL
+    conda install -c conda-forge nodejsy
     pip install keplergl
 
 
@@ -34,9 +35,9 @@ To use KeplerGL, I need to install [NodeJS](https://nodejs.org/en/download/), se
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzU1Nzg2OCwxMzMxNTIwODc1LDE0MD
-Q0NjAyMjcsMTkwMjUzMzQyNywtMjA2MDc5MzM2MiwtMTEwMTkz
-MDYzLDEwMjU3MjMwNjcsLTIxMTIzNTM0NjgsMTI1Nzk1MDI3Mi
-wzMTEwOTk0NTIsMTQ1MjA4MDgzMywxNDUzNDk1NjAsLTE2ODE1
-ODQ2MDksLTE0OTU5OTAwNjUsLTk1MTQ1NDMzMF19
+eyJoaXN0b3J5IjpbNDcxMDY0MzIwLDEzMzE1MjA4NzUsMTQwND
+Q2MDIyNywxOTAyNTMzNDI3LC0yMDYwNzkzMzYyLC0xMTAxOTMw
+NjMsMTAyNTcyMzA2NywtMjExMjM1MzQ2OCwxMjU3OTUwMjcyLD
+MxMTA5OTQ1MiwxNDUyMDgwODMzLDE0NTM0OTU2MCwtMTY4MTU4
+NDYwOSwtMTQ5NTk5MDA2NSwtOTUxNDU0MzMwXX0=
 -->
