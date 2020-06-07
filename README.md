@@ -1,15 +1,14 @@
 # PeopleFlux
 
-**About dataset**
-The dataset is from 
-Link to the dataset: https://www.nomisweb.co.uk/census/2011/origin_destination
-The UK government Office for National Stat # Welcome to Nomis
+## About dataset
 
-Nomis is a service provided by the Office for National Statistics, ONS, to give you free access to the most detailed and up-to-date UK labour market statistics from official sources.
+The dataset is from dataset: https://www.nomisweb.co.uk/census/2011/origin_destination
+Nomis is an open access data from the Office for National Statistics (ONS) for UK labour market statistics from official sources.
 
 Origin-destination data (also known as flow data) will include the travel-to-work and migration patterns of individuals, cross-tabulated by variables of interest (for example occupation). New products for the 2011 Census will also provide the migration patterns of those living at a student address one year ago and provide information on individuals with second residences.
 
-Creating 
+## Creating Map
+
 1. Download map data from Local Authority District https://geoportal.statistics.gov.uk/datasets/local-authority-districts-december-2019-boundaries-uk-bfc 
 from the ONS Geoportal http://geoportal.statistics.gov.uk/
 2. Open .shp file in Mapshaper https://mapshaper.org/
@@ -106,8 +105,8 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNDc4MTYsMTAyNTcyMzA2NywtMjExMj
-M1MzQ2OCwxMjU3OTUwMjcyLDMxMTA5OTQ1MiwxNDUyMDgwODMz
-LDE0NTM0OTU2MCwtMTY4MTU4NDYwOSwtMTQ5NTk5MDA2NSwtOT
-UxNDU0MzMwXX0=
+eyJoaXN0b3J5IjpbLTE5MzIyNjIzMTMsMTAyNTcyMzA2NywtMj
+ExMjM1MzQ2OCwxMjU3OTUwMjcyLDMxMTA5OTQ1MiwxNDUyMDgw
+ODMzLDE0NTM0OTU2MCwtMTY4MTU4NDYwOSwtMTQ5NTk5MDA2NS
+wtOTUxNDU0MzMwXX0=
 -->
