@@ -2,10 +2,8 @@
 
 ## About dataset
 
-The dataset is from dataset: https://www.nomisweb.co.uk/census/2011/origin_destination
-Nomis is an open access data from the Office for National Statistics (ONS) for UK labour market statistics from official sources.
-
-Origin-destination data (also known as flow data) will include the travel-to-work and migration patterns of individuals, cross-tabulated by variables of interest (for example occupation). New products for the 2011 Census will also provide the migration patterns of those living at a student address one year ago and provide information on individuals with second residences.
+The dataset is from dataset: https://www.nomisweb.co.uk/census/2011/origin_destination Nomis is an open access data from the Office for National Statistics (ONS) for UK labour market statistics from official sources.
+The dataset 
 
 ## Creating Map
 
@@ -105,8 +103,8 @@ conda install -c anaconda numpy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzIyNjIzMTMsMTAyNTcyMzA2NywtMj
-ExMjM1MzQ2OCwxMjU3OTUwMjcyLDMxMTA5OTQ1MiwxNDUyMDgw
-ODMzLDE0NTM0OTU2MCwtMTY4MTU4NDYwOSwtMTQ5NTk5MDA2NS
-wtOTUxNDU0MzMwXX0=
+eyJoaXN0b3J5IjpbLTY3NjE1MDM0MCwxMDI1NzIzMDY3LC0yMT
+EyMzUzNDY4LDEyNTc5NTAyNzIsMzExMDk5NDUyLDE0NTIwODA4
+MzMsMTQ1MzQ5NTYwLC0xNjgxNTg0NjA5LC0xNDk1OTkwMDY1LC
+05NTE0NTQzMzBdfQ==
 -->
