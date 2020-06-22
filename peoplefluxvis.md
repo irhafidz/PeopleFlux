@@ -1,7 +1,10 @@
 https://github.com/irhafidz/PeopleFlux
 
 Using KeplerGL, start to [install KeplerGL](https://docs.kepler.gl/docs/keplergl-jupyter#install)
-Install NodeJS
+Install NodeJS & jupyter extension
+
+    conda install -c conda-forge nodejs
+    jupyter labextension install @jupyter-widgets/jupyterlab-manager
 
 Install [KeplerGL per-requisites](https://docs.kepler.gl/docs/keplergl-jupyter#prerequisites):
  - Python >= 2 
@@ -12,6 +15,6 @@ Install [KeplerGL per-requisites](https://docs.kepler.gl/docs/keplergl-jupyter#p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzUwNjEwLC0xNjAzNTQ5ODY2LDEwMj
-M3MzkyMzYsLTE5MDQ4NDQ1MzRdfQ==
+eyJoaXN0b3J5IjpbMTA0OTQ1NjYwOCwxMDE3NTA2MTAsLTE2MD
+M1NDk4NjYsMTAyMzczOTIzNiwtMTkwNDg0NDUzNF19
 -->
