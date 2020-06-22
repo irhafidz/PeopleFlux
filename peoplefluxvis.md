@@ -9,7 +9,7 @@ Come accross some error in Windows 10, also need to install some library:
 install [Shapely](https://pypi.org/project/Shapely/) manually `pip install Shapely`
 install [GDAL](https://pypi.org/project/GDAL/) manually `pip install GDAL`
 install
-install
+install [fiona](https://pypi.org/project/Fiona/) manually `pip install Fiona`
 
 Install [KeplerGL per-requisites](https://docs.kepler.gl/docs/keplergl-jupyter#prerequisites):
  - Python >= 2 
@@ -20,7 +20,7 @@ Install [KeplerGL per-requisites](https://docs.kepler.gl/docs/keplergl-jupyter#p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk2NjgwMSwxMDQ5NDU2NjA4LDEwMT
-c1MDYxMCwtMTYwMzU0OTg2NiwxMDIzNzM5MjM2LC0xOTA0ODQ0
-NTM0XX0=
+eyJoaXN0b3J5IjpbOTk4MTMyNjE1LDEwNDk0NTY2MDgsMTAxNz
+UwNjEwLC0xNjAzNTQ5ODY2LDEwMjM3MzkyMzYsLTE5MDQ4NDQ1
+MzRdfQ==
 -->
