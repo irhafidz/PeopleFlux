@@ -12,7 +12,7 @@ install
 install [fiona](https://pypi.org/project/Fiona/) manually `pip install Fiona`
 
 Install [KeplerGL per-requisites](https://docs.kepler.gl/docs/keplergl-jupyter#prerequisites):
- - Python >= 2 
+ - Python >= 2
  - ipywidgets >= 7.0.0 `pip install ipywidgets`
  
 
@@ -20,7 +20,7 @@ Install [KeplerGL per-requisites](https://docs.kepler.gl/docs/keplergl-jupyter#p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MTMyNjE1LDEwNDk0NTY2MDgsMTAxNz
-UwNjEwLC0xNjAzNTQ5ODY2LDEwMjM3MzkyMzYsLTE5MDQ4NDQ1
-MzRdfQ==
+eyJoaXN0b3J5IjpbLTc1Nzg3MDEsOTk4MTMyNjE1LDEwNDk0NT
+Y2MDgsMTAxNzUwNjEwLC0xNjAzNTQ5ODY2LDEwMjM3MzkyMzYs
+LTE5MDQ4NDQ1MzRdfQ==
 -->
