@@ -5,7 +5,8 @@ Install NodeJS & jupyter extension
 
     conda install -c conda-forge nodejs
     jupyter labextension install @jupyter-widgets/jupyterlab-manager
-
+Also need to install some library
+pip install [Shapely](https://pypi.org/project/Shapely/) manually `pip install Shapely`
 Install [KeplerGL per-requisites](https://docs.kepler.gl/docs/keplergl-jupyter#prerequisites):
  - Python >= 2 
  - ipywidgets >= 7.0.0 `pip install ipywidgets`
@@ -15,6 +16,7 @@ Install [KeplerGL per-requisites](https://docs.kepler.gl/docs/keplergl-jupyter#p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTQ1NjYwOCwxMDE3NTA2MTAsLTE2MD
-M1NDk4NjYsMTAyMzczOTIzNiwtMTkwNDg0NDUzNF19
+eyJoaXN0b3J5IjpbNjE0ODY2Nzg3LDEwNDk0NTY2MDgsMTAxNz
+UwNjEwLC0xNjAzNTQ5ODY2LDEwMjM3MzkyMzYsLTE5MDQ4NDQ1
+MzRdfQ==
 -->
