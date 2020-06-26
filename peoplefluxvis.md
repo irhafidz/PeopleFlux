@@ -23,12 +23,11 @@ Fiona has its dependency that stated in its docs/ documentation page:
 
 2. Python Architecture version
 
-
-    import platform as p
+import platform as p
         print(p.architecture())
         ('64bit', 'WindowsPE')
 
-Download the appropriate GDAL version as your Python architecture (mine is 64bit)
+3. Download the appropriate GDAL version as your Python architecture (mine is 64bit)
 
 Go to the GDAL website release [here](http://www.gisinternals.com/release.php) and download the Windows 64 bit. I picked the MSVC2017 x64 and will be redirect [to the other page](http://www.gisinternals.com/query.html?content=filelist&file=release-1911-x64-gdal-2-4-4-mapserver-7-4-3.zip).
  
@@ -44,8 +43,8 @@ Download GDAL version that is in appropriate with your python architecture
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTkyODkzMzQsMzI1NTk3MTgyLDU3ND
-I1NDA5NywtMjI1Nzk3MjI4LC0xNTQ2MjEzNTQxLC03NTc4NzAx
-LDk5ODEzMjYxNSwxMDQ5NDU2NjA4LDEwMTc1MDYxMCwtMTYwMz
-U0OTg2NiwxMDIzNzM5MjM2LC0xOTA0ODQ0NTM0XX0=
+eyJoaXN0b3J5IjpbMTI0NjE4NDU3OSwzMjU1OTcxODIsNTc0Mj
+U0MDk3LC0yMjU3OTcyMjgsLTE1NDYyMTM1NDEsLTc1Nzg3MDEs
+OTk4MTMyNjE1LDEwNDk0NTY2MDgsMTAxNzUwNjEwLC0xNjAzNT
+Q5ODY2LDEwMjM3MzkyMzYsLTE5MDQ4NDQ1MzRdfQ==
 -->
