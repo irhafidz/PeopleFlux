@@ -26,7 +26,7 @@ Python Architecture version
 
 Download the appropriate GDAL version as your Python architecture (mine is 64bit)
 
-Go to the GDAL website release [here](http://www.gisinternals.com/release.php) and download the Windows 64 bit 
+Go to the GDAL website release [here](http://www.gisinternals.com/release.php) and download the Windows 64 bit. I picked the MSVC2017 x64 and will be redirect to the other page.
  
 
   
@@ -39,8 +39,8 @@ Go to the GDAL website release [here](http://www.gisinternals.com/release.php) a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1NTk3MTgyLDU3NDI1NDA5NywtMjI1Nz
-k3MjI4LC0xNTQ2MjEzNTQxLC03NTc4NzAxLDk5ODEzMjYxNSwx
-MDQ5NDU2NjA4LDEwMTc1MDYxMCwtMTYwMzU0OTg2NiwxMDIzNz
-M5MjM2LC0xOTA0ODQ0NTM0XX0=
+eyJoaXN0b3J5IjpbLTUzMzU5NTMyNCwzMjU1OTcxODIsNTc0Mj
+U0MDk3LC0yMjU3OTcyMjgsLTE1NDYyMTM1NDEsLTc1Nzg3MDEs
+OTk4MTMyNjE1LDEwNDk0NTY2MDgsMTAxNzUwNjEwLC0xNjAzNT
+Q5ODY2LDEwMjM3MzkyMzYsLTE5MDQ4NDQ1MzRdfQ==
 -->
