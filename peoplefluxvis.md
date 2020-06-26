@@ -18,6 +18,8 @@ Fiona has its dependency that stated in its docs/ documentation page:
 > Fiona depends on the modules `enum34, six, cligj, munch, argparse,` and `ordereddict` (the two latter modules are standard in Python
 > 2.7+). Pip will fetch these requirements for you, but users installing Fiona from a Windows installer must get them separately.
 
+The thing is, w
+
 
 
 
@@ -26,7 +28,8 @@ Fiona has its dependency that stated in its docs/ documentation page:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTc5NzIyOCwtMTU0NjIxMzU0MSwtNz
-U3ODcwMSw5OTgxMzI2MTUsMTA0OTQ1NjYwOCwxMDE3NTA2MTAs
-LTE2MDM1NDk4NjYsMTAyMzczOTIzNiwtMTkwNDg0NDUzNF19
+eyJoaXN0b3J5IjpbMTk3Njg4MTk2NCwtMjI1Nzk3MjI4LC0xNT
+Q2MjEzNTQxLC03NTc4NzAxLDk5ODEzMjYxNSwxMDQ5NDU2NjA4
+LDEwMTc1MDYxMCwtMTYwMzU0OTg2NiwxMDIzNzM5MjM2LC0xOT
+A0ODQ0NTM0XX0=
 -->
