@@ -1,26 +1,29 @@
 https://github.com/irhafidz/PeopleFlux
 
-Using KeplerGL, start to [install KeplerGL](https://docs.kepler.gl/docs/keplergl-jupyter#install)
-Install NodeJS & jupyter extension
 
-    conda install -c conda-forge nodejs
-    jupyter labextension install @jupyter-widgets/jupyterlab-manager
-Come accross some error in Windows 10, also need to install some library:
-install [Shapely](https://pypi.org/project/Shapely/) manually `pip install Shapely`
-install [GDAL](https://pypi.org/project/GDAL/) manually `pip install GDAL`
-install
-install [fiona](https://pypi.org/project/Fiona/) manually `pip install Fiona`
+### Installing KeplerGL from Windows 10
 
-Install [KeplerGL per-requisites](https://docs.kepler.gl/docs/keplergl-jupyter#prerequisites):
- - Python >= 2
- - ipywidgets >= 7.0.0 `pip install ipywidgets`
- 
+I learn about [KeplerGL](https://kepler.gl/) on a webinar from [DSF Lunch](https://www.datasciencefestival.com/event/dsf-lunch-learn-visualising-location-data-with-keplergl/) but got stuck with the KeplerGL installation. Read from a lot of source, turns out I need to:
+
+get [Fiona](https://pypi.org/project/Fiona/) correctly.
+
+What is Fiona? According to their github page:
+
+> Fiona **reads and writes** geographic data files and thereby helps Python programmers integrate geographic information systems with other computer systems. Fiona **contains extension modules** that link the Geospatial Data Abstraction Library (GDAL).
+
+Fiona has its dependency that stated in its docs/ documentation page:
+
+enum34, six
+
+Fiona requires `Python versions 3.6+`  
+`GDAL version 1.11–3.0.` 
+enum34, six, cligj, munch, argparse, and ordereddict (the two latter modules are standard in Python 2.7+). Pip will fetch these requirements for you, but users installing Fiona from a Windows installer must get them separately.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Nzg3MDEsOTk4MTMyNjE1LDEwNDk0NT
-Y2MDgsMTAxNzUwNjEwLC0xNjAzNTQ5ODY2LDEwMjM3MzkyMzYs
-LTE5MDQ4NDQ1MzRdfQ==
+eyJoaXN0b3J5IjpbLTE1NDYyMTM1NDEsLTc1Nzg3MDEsOTk4MT
+MyNjE1LDEwNDk0NTY2MDgsMTAxNzUwNjEwLC0xNjAzNTQ5ODY2
+LDEwMjM3MzkyMzYsLTE5MDQ4NDQ1MzRdfQ==
 -->
