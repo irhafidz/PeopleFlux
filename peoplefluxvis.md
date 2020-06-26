@@ -26,7 +26,7 @@ Python Architecture version
 
 Download the appropriate GDAL version as your Python architecture (mine is 64bit)
 
-Go to the GDAL website release [here](http://www.gisinternals.com/release.php) and download the Windows 64 bit. I picked the MSVC2017 x64 and will be redirect to the other page.
+Go to the GDAL website release [here](http://www.gisinternals.com/release.php) and download the Windows 64 bit. I picked the MSVC2017 x64 and will be redirect [to the other page](http://www.gisinternals.com/query.html?content=filelist&file=release-1911-x64-gdal-2-4-4-mapserver-7-4-3.zip).
  
 
   
@@ -39,7 +39,7 @@ Go to the GDAL website release [here](http://www.gisinternals.com/release.php) a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzU5NTMyNCwzMjU1OTcxODIsNTc0Mj
+eyJoaXN0b3J5IjpbLTExMTM5NDc4MSwzMjU1OTcxODIsNTc0Mj
 U0MDk3LC0yMjU3OTcyMjgsLTE1NDYyMTM1NDEsLTc1Nzg3MDEs
 OTk4MTMyNjE1LDEwNDk0NTY2MDgsMTAxNzUwNjEwLC0xNjAzNT
 Q5ODY2LDEwMjM3MzkyMzYsLTE5MDQ4NDQ1MzRdfQ==
