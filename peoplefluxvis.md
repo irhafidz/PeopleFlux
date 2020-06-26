@@ -21,9 +21,13 @@ Fiona has its dependency that stated in its docs/ documentation page:
 1. Python Architecture version
 import platform as p
 print(p.architecture())
-('64bit', 'WindowsPE')
+    ('64bit', 'WindowsPE')
 
-3. Download GDAL version that is in appropriate with your python architecture
+3. Download the appropriate GDAL version as your Python architecture (mine is 64bit)
+4. 
+
+  
+5. Download GDAL version that is in appropriate with your python architecture
 
 
 
@@ -32,8 +36,8 @@ print(p.architecture())
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc5Mjc1OTgsNTc0MjU0MDk3LC0yMj
-U3OTcyMjgsLTE1NDYyMTM1NDEsLTc1Nzg3MDEsOTk4MTMyNjE1
-LDEwNDk0NTY2MDgsMTAxNzUwNjEwLC0xNjAzNTQ5ODY2LDEwMj
-M3MzkyMzYsLTE5MDQ4NDQ1MzRdfQ==
+eyJoaXN0b3J5IjpbLTgxNDQxNTgxNCw1NzQyNTQwOTcsLTIyNT
+c5NzIyOCwtMTU0NjIxMzU0MSwtNzU3ODcwMSw5OTgxMzI2MTUs
+MTA0OTQ1NjYwOCwxMDE3NTA2MTAsLTE2MDM1NDk4NjYsMTAyMz
+czOTIzNiwtMTkwNDg0NDUzNF19
 -->
