@@ -18,8 +18,9 @@ Fiona has its dependency that stated in its docs/ documentation page:
 > Fiona depends on the modules `enum34, six, cligj, munch, argparse,` and `ordereddict` (the two latter modules are standard in Python
 > 2.7+). Pip will fetch these requirements for you, but users installing Fiona from a Windows installer must get them separately.
 
-The thing is, 
+1. Python Version 
 
+3. Download GDAL version that is in appropriate with your python architecture
 
 
 
@@ -28,8 +29,8 @@ The thing is,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MjU0MDk3LC0yMjU3OTcyMjgsLTE1ND
-YyMTM1NDEsLTc1Nzg3MDEsOTk4MTMyNjE1LDEwNDk0NTY2MDgs
-MTAxNzUwNjEwLC0xNjAzNTQ5ODY2LDEwMjM3MzkyMzYsLTE5MD
-Q4NDQ1MzRdfQ==
+eyJoaXN0b3J5IjpbLTk0OTY1NjY2NSw1NzQyNTQwOTcsLTIyNT
+c5NzIyOCwtMTU0NjIxMzU0MSwtNzU3ODcwMSw5OTgxMzI2MTUs
+MTA0OTQ1NjYwOCwxMDE3NTA2MTAsLTE2MDM1NDk4NjYsMTAyMz
+czOTIzNiwtMTkwNDg0NDUzNF19
 -->
