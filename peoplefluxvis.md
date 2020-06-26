@@ -13,7 +13,8 @@ What is Fiona? According to their github page:
 
 I decided to [re-do all what Choudary already did](https://medium.com/@rschoudhary1999/installing-fiona-on-windows-10-for-keplergl-6af2628b6fc5).
 
- 1. Fiona has its dependency that stated in its docs/ documentation page:
+ 1. Learning about Fiona reuirement & dependencies
+Fiona has its dependency that stated in its docs/ documentation page:
 
 > Fiona requires `Python versions 3.6+`  
 > `GDAL version 1.11–3.0.` 
@@ -22,10 +23,10 @@ I decided to [re-do all what Choudary already did](https://medium.com/@rschoudha
 
 2. Python Architecture version
 
+
     import platform as p
         print(p.architecture())
         ('64bit', 'WindowsPE')
-
 
 Download the appropriate GDAL version as your Python architecture (mine is 64bit)
 
@@ -41,9 +42,10 @@ Download GDAL version that is in appropriate with your python architecture
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Nzg5MDU4NSwzMjU1OTcxODIsNTc0Mj
-U0MDk3LC0yMjU3OTcyMjgsLTE1NDYyMTM1NDEsLTc1Nzg3MDEs
-OTk4MTMyNjE1LDEwNDk0NTY2MDgsMTAxNzUwNjEwLC0xNjAzNT
-Q5ODY2LDEwMjM3MzkyMzYsLTE5MDQ4NDQ1MzRdfQ==
+eyJoaXN0b3J5IjpbLTE0OTkyODkzMzQsMzI1NTk3MTgyLDU3ND
+I1NDA5NywtMjI1Nzk3MjI4LC0xNTQ2MjEzNTQxLC03NTc4NzAx
+LDk5ODEzMjYxNSwxMDQ5NDU2NjA4LDEwMTc1MDYxMCwtMTYwMz
+U0OTg2NiwxMDIzNzM5MjM2LC0xOTA0ODQ0NTM0XX0=
 -->
