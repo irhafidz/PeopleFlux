@@ -56,11 +56,11 @@ Install GDAL core and then GDAL python binding from msi installers.
 
 `GDAL_DATA`: C:\Program Files (x86)\GDAL\gdal-data
 
-`GDAL_DRIVER_PATH`: C:\Program Files (x86)\GDAL\gdalplugins
+`GDAL_DRIVER_PATH`: C:\Program Files\GDAL\gdalplugins
 
 After this, execute the code blow in your terminal and paste the version in a new environment variable called `GDAL_VERSION`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjIzOTE5NiwtMTg0Mzg4Nzk1NSwtMT
+eyJoaXN0b3J5IjpbLTQ2MDYwNzEzNSwtMTg0Mzg4Nzk1NSwtMT
 c0MjYyMjM4NSw2ODY1Mzg1NjcsMTI0NjE4NDU3OSwzMjU1OTcx
 ODIsNTc0MjU0MDk3LC0yMjU3OTcyMjgsLTE1NDYyMTM1NDEsLT
 c1Nzg3MDEsOTk4MTMyNjE1LDEwNDk0NTY2MDgsMTAxNzUwNjEw
