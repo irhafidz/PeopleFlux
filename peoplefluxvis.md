@@ -30,7 +30,7 @@ Go to the GDAL website release [here](http://www.gisinternals.com/release.php) a
  
 
   
-5. Download GDAL version that is in appropriate with your python architecture
+Download GDAL version that is in appropriate with your python architecture
 
 
 
@@ -39,7 +39,7 @@ Go to the GDAL website release [here](http://www.gisinternals.com/release.php) a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM5NDc4MSwzMjU1OTcxODIsNTc0Mj
+eyJoaXN0b3J5IjpbLTIxMzg1MzUzNiwzMjU1OTcxODIsNTc0Mj
 U0MDk3LC0yMjU3OTcyMjgsLTE1NDYyMTM1NDEsLTc1Nzg3MDEs
 OTk4MTMyNjE1LDEwNDk0NTY2MDgsMTAxNzUwNjEwLC0xNjAzNT
 Q5ODY2LDEwMjM3MzkyMzYsLTE5MDQ4NDQ1MzRdfQ==
