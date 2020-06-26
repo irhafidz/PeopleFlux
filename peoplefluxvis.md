@@ -13,7 +13,7 @@ What is Fiona? According to their github page:
 
 I decided to [re-do all what Choudary already did](https://medium.com/@rschoudhary1999/installing-fiona-on-windows-10-for-keplergl-6af2628b6fc5).
 
- 1. Learning about Fiona reuirement & dependencies
+ **1. Learning about Fiona requirement & dependencies**
 Fiona has its dependency that stated in its docs/ documentation page:
 
 > Fiona requires `Python versions 3.6+`  
@@ -41,13 +41,13 @@ Go to the GDAL website release [here](http://www.gisinternals.com/release.php) a
  - Installer for the GDAL ECW 3.3 plugin (must be installed to the same directory as the GDAL core, the 3.3 and 5.x versions cannot be installed side by side) (last row)
 After download all the 4 files, do the installation.
 
-**3. Installation**
+**4. Installation**
 
 Install GDAL core and then GDAL python binding from msi installers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDI2MjIzODUsNjg2NTM4NTY3LDEyND
-YxODQ1NzksMzI1NTk3MTgyLDU3NDI1NDA5NywtMjI1Nzk3MjI4
-LC0xNTQ2MjEzNTQxLC03NTc4NzAxLDk5ODEzMjYxNSwxMDQ5ND
-U2NjA4LDEwMTc1MDYxMCwtMTYwMzU0OTg2NiwxMDIzNzM5MjM2
-LC0xOTA0ODQ0NTM0XX0=
+eyJoaXN0b3J5IjpbLTE4NDM4ODc5NTUsLTE3NDI2MjIzODUsNj
+g2NTM4NTY3LDEyNDYxODQ1NzksMzI1NTk3MTgyLDU3NDI1NDA5
+NywtMjI1Nzk3MjI4LC0xNTQ2MjEzNTQxLC03NTc4NzAxLDk5OD
+EzMjYxNSwxMDQ5NDU2NjA4LDEwMTc1MDYxMCwtMTYwMzU0OTg2
+NiwxMDIzNzM5MjM2LC0xOTA0ODQ0NTM0XX0=
 -->
