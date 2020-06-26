@@ -23,9 +23,11 @@ Fiona has its dependency that stated in its docs/ documentation page:
 
 2. Python Architecture version
 
-import platform as p
-        print(p.architecture())
-        ('64bit', 'WindowsPE')
+
+    import platform as p
+    print(p.architecture())
+    ('64bit', 'WindowsPE')
+
 
 3. Download the appropriate GDAL version as your Python architecture (mine is 64bit)
 
@@ -37,9 +39,9 @@ Go to the GDAL website release [here](http://www.gisinternals.com/release.php) a
  - Installer for the GDAL ECW 3.3 plugin (must be installed to the same directory as the GDAL core, the 3.3 and 5.x versions cannot be installed side by side) (last row)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NTM4NTY3LDEyNDYxODQ1NzksMzI1NT
-k3MTgyLDU3NDI1NDA5NywtMjI1Nzk3MjI4LC0xNTQ2MjEzNTQx
-LC03NTc4NzAxLDk5ODEzMjYxNSwxMDQ5NDU2NjA4LDEwMTc1MD
-YxMCwtMTYwMzU0OTg2NiwxMDIzNzM5MjM2LC0xOTA0ODQ0NTM0
-XX0=
+eyJoaXN0b3J5IjpbLTEzMTI4NDQxLDY4NjUzODU2NywxMjQ2MT
+g0NTc5LDMyNTU5NzE4Miw1NzQyNTQwOTcsLTIyNTc5NzIyOCwt
+MTU0NjIxMzU0MSwtNzU3ODcwMSw5OTgxMzI2MTUsMTA0OTQ1Nj
+YwOCwxMDE3NTA2MTAsLTE2MDM1NDk4NjYsMTAyMzczOTIzNiwt
+MTkwNDg0NDUzNF19
 -->
