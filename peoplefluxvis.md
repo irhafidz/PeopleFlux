@@ -13,9 +13,9 @@ What is Fiona? According to their github page:
 
 Fiona has its dependency that stated in its docs/ documentation page:
 
-> Fiona requires `Python versions 3.6+`   `GDAL version 1.11–3.0.` 
-> Fiona depends on the modules `enum34, six, cligj, munch, argparse,`
-> and `ordereddict` (the two latter modules are standard in Python
+> Fiona requires `Python versions 3.6+`  
+> `GDAL version 1.11–3.0.` 
+> Fiona depends on the modules `enum34, six, cligj, munch, argparse,` and `ordereddict` (the two latter modules are standard in Python
 > 2.7+). Pip will fetch these requirements for you, but users installing Fiona from a Windows installer must get them separately.
 
 
@@ -23,8 +23,10 @@ Fiona has its dependency that stated in its docs/ documentation page:
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5MTYyNjk4LC0xNTQ2MjEzNTQxLC03NT
-c4NzAxLDk5ODEzMjYxNSwxMDQ5NDU2NjA4LDEwMTc1MDYxMCwt
-MTYwMzU0OTg2NiwxMDIzNzM5MjM2LC0xOTA0ODQ0NTM0XX0=
+eyJoaXN0b3J5IjpbLTIyNTc5NzIyOCwtMTU0NjIxMzU0MSwtNz
+U3ODcwMSw5OTgxMzI2MTUsMTA0OTQ1NjYwOCwxMDE3NTA2MTAs
+LTE2MDM1NDk4NjYsMTAyMzczOTIzNiwtMTkwNDg0NDUzNF19
 -->
