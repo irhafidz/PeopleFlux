@@ -73,7 +73,14 @@ Redirect to the place where I put the `.whl file download` and then run using `p
 
 https://github.com/benfred/implicit/issues/91
 https://medium.com/@rschoudhary1999/installing-fiona-on-windows-10-for-keplergl-6af2628b6fc5
+
+https://github.com/Toblerity/Fiona/issues/220
+https://jingwen-z.github.io/how-to-install-python-module-fiona-on-windows-os/
+
+https://github.com/benfred/implicit/issues/76
+https://github.com/benfred/implicit/issues/91
+https://jingwen-z.github.io/33-things-to-know-about-pandas-dataframe/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2NTg0MzQxLC0xMjUyMTU1NDcyLDE2NT
-I3NDA3ODBdfQ==
+eyJoaXN0b3J5IjpbMTg3NjY1NjY0OSwtMTI1MjE1NTQ3MiwxNj
+UyNzQwNzgwXX0=
 -->
