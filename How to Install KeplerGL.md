@@ -70,11 +70,5 @@ Redirect to the place where I put the `.whl file download` and then run using `p
 
      C:\Users\Hafidz>`pip install Fiona-1.8.13-cp37-cp37m-win_amd64.whl`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mjc0MDc4MCwtNzI4OTMwMjE2LDExNz
-A3ODU3NTUsMTU0Nzk4MTI2NCwtNDYwNjA3MTM1LC0xODQzODg3
-OTU1LC0xNzQyNjIyMzg1LDY4NjUzODU2NywxMjQ2MTg0NTc5LD
-MyNTU5NzE4Miw1NzQyNTQwOTcsLTIyNTc5NzIyOCwtMTU0NjIx
-MzU0MSwtNzU3ODcwMSw5OTgxMzI2MTUsMTA0OTQ1NjYwOCwxMD
-E3NTA2MTAsLTE2MDM1NDk4NjYsMTAyMzczOTIzNiwtMTkwNDg0
-NDUzNF19
+eyJoaXN0b3J5IjpbMTY1Mjc0MDc4MF19
 -->
