@@ -19,8 +19,8 @@ Fiona has its dependency that stated in its docs/ documentation page:
 > 2.7+). Pip will fetch these requirements for you, but users installing Fiona from a Windows installer must get them separately.
 
 **2. Check your Python Architecture version**
+Check your Python architecture (just to make sure):
 
-How to check Python Architecture version
    
 
      import platform as p
@@ -30,7 +30,7 @@ How to check Python Architecture version
 
 **3. Download the appropriate GDAL version as your Python architecture (mine is 64bit)**
 
-Go to the GDAL website release [here](http://www.gisinternals.com/release.php) and download the Windows 64 bit. I picked the MSVC2017 x64 and will be redirect [to the other page](http://www.gisinternals.com/query.html?content=filelist&file=release-1911-x64-gdal-2-4-4-mapserver-7-4-3.zip). Download GDAL version that is in appropriate with your python architecture. There are 4 download files:
+Go to the GDAL website release [here](http://www.gisinternals.com/release.php) and download the Windows 64 bit. I picked the MSVC2017 x64 and it will be redirect [to the other page](http://www.gisinternals.com/query.html?content=filelist&file=release-1911-x64-gdal-2-4-4-mapserver-7-4-3.zip). Download GDAL version that is in appropriate with your python architecture. There are 4 download files:
 
  
 
@@ -70,5 +70,5 @@ Redirect to the place where I put the `.whl file download` and then run using `p
 
      C:\Users\Hafidz>`pip install Fiona-1.8.13-cp37-cp37m-win_amd64.whl`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIwMjk2MjQsMTY1Mjc0MDc4MF19
+eyJoaXN0b3J5IjpbLTEyNTIxNTU0NzIsMTY1Mjc0MDc4MF19
 -->
