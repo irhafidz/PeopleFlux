@@ -65,18 +65,18 @@ Check the `GDAL_VERSION` in Anaconda terminal and paste the version in a new env
     (base) C:\Users\Hafidz>gdalinfo --version
     GDAL 2.3.3, released 2018/12/14
 
-**7. Install Fiona**
+**6. Install Fiona**
 Install the Fiona library that has Windows binaries according to your python specification from https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona `cd` to the `.whl file directory`. Remember, do not forget to install the Fiona dependencies: `enum34, six, cligj, munch, argparse,` and `ordereddict`. 
 
 Redirect to the place where I put the `.whl file download` and then run using `pip install`:
 
      C:\Users\Hafidz>`pip install Fiona-1.8.13-cp37-cp37m-win_amd64.whl`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTc2MTUyNywtNzI4OTMwMjE2LDExNz
-A3ODU3NTUsMTU0Nzk4MTI2NCwtNDYwNjA3MTM1LC0xODQzODg3
-OTU1LC0xNzQyNjIyMzg1LDY4NjUzODU2NywxMjQ2MTg0NTc5LD
-MyNTU5NzE4Miw1NzQyNTQwOTcsLTIyNTc5NzIyOCwtMTU0NjIx
-MzU0MSwtNzU3ODcwMSw5OTgxMzI2MTUsMTA0OTQ1NjYwOCwxMD
-E3NTA2MTAsLTE2MDM1NDk4NjYsMTAyMzczOTIzNiwtMTkwNDg0
-NDUzNF19
+eyJoaXN0b3J5IjpbNDI1OTc2Njk0LC03Mjg5MzAyMTYsMTE3MD
+c4NTc1NSwxNTQ3OTgxMjY0LC00NjA2MDcxMzUsLTE4NDM4ODc5
+NTUsLTE3NDI2MjIzODUsNjg2NTM4NTY3LDEyNDYxODQ1NzksMz
+I1NTk3MTgyLDU3NDI1NDA5NywtMjI1Nzk3MjI4LC0xNTQ2MjEz
+NTQxLC03NTc4NzAxLDk5ODEzMjYxNSwxMDQ5NDU2NjA4LDEwMT
+c1MDYxMCwtMTYwMzU0OTg2NiwxMDIzNzM5MjM2LC0xOTA0ODQ0
+NTM0XX0=
 -->
