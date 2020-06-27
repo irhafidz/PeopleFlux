@@ -48,22 +48,21 @@ Install GDAL core and then GDAL python binding from msi installers.
 **5 Adds GDAL environment variables**
 **4. Adding environment variables**
 
--   GDAL is installed at:  
-    it’s probably in `C:\Program Files (x86)\GDAL\`or `C:\Program Files\GDAL\` (mine is the later)
--   Add the following to your environment variables:
+-   GDAL is installed at:  `C:\Program Files (x86)\GDAL\`or `C:\Program Files\GDAL\` (mine is the later)
+-   Add `path, gdal_data, gdal_driver_path` to our environment variables:
 
 `PATH`: C:\Program Files\GDAL
 
-`GDAL_DATA`: C:\Program Files (x86)\GDAL\gdal-data
+`GDAL_DATA`: C:\Program Files\GDAL\gdal-data
 
 `GDAL_DRIVER_PATH`: C:\Program Files\GDAL\gdalplugins
 
 After this, execute the code blow in your terminal and paste the version in a new environment variable called `GDAL_VERSION`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDYwNzEzNSwtMTg0Mzg4Nzk1NSwtMT
-c0MjYyMjM4NSw2ODY1Mzg1NjcsMTI0NjE4NDU3OSwzMjU1OTcx
-ODIsNTc0MjU0MDk3LC0yMjU3OTcyMjgsLTE1NDYyMTM1NDEsLT
-c1Nzg3MDEsOTk4MTMyNjE1LDEwNDk0NTY2MDgsMTAxNzUwNjEw
-LC0xNjAzNTQ5ODY2LDEwMjM3MzkyMzYsLTE5MDQ4NDQ1MzRdfQ
-==
+eyJoaXN0b3J5IjpbLTU4NjIyMTM2MSwtNDYwNjA3MTM1LC0xOD
+QzODg3OTU1LC0xNzQyNjIyMzg1LDY4NjUzODU2NywxMjQ2MTg0
+NTc5LDMyNTU5NzE4Miw1NzQyNTQwOTcsLTIyNTc5NzIyOCwtMT
+U0NjIxMzU0MSwtNzU3ODcwMSw5OTgxMzI2MTUsMTA0OTQ1NjYw
+OCwxMDE3NTA2MTAsLTE2MDM1NDk4NjYsMTAyMzczOTIzNiwtMT
+kwNDg0NDUzNF19
 -->
