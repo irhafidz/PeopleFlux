@@ -57,9 +57,13 @@ Install GDAL core and then GDAL python binding from msi installers.
 
 `GDAL_DRIVER_PATH`: C:\Program Files\GDAL\gdalplugins
 
-After this, execute the code blow in your terminal and paste the version in a new environment variable called `GDAL_VERSION`
+Check the `GDAL_VERSION` in Anaconda terminal and paste the version in a new environment:
+
+    (base) C:\Users\Hafidz>gdalinfo --version
+    GDAL 2.3.3, released 2018/12/14
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjIyMTM2MSwtNDYwNjA3MTM1LC0xOD
+eyJoaXN0b3J5IjpbMTQ5NTU0OTY4MywtNDYwNjA3MTM1LC0xOD
 QzODg3OTU1LC0xNzQyNjIyMzg1LDY4NjUzODU2NywxMjQ2MTg0
 NTc5LDMyNTU5NzE4Miw1NzQyNTQwOTcsLTIyNTc5NzIyOCwtMT
 U0NjIxMzU0MSwtNzU3ODcwMSw5OTgxMzI2MTUsMTA0OTQ1NjYw
