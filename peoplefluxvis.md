@@ -51,8 +51,6 @@ Go to the GDAL website release [here](http://www.gisinternals.com/release.php) a
 Install GDAL core and then GDAL python binding from msi installers.
 
 **5 Adds GDAL environment variables**
-**6. Adding environment variables**
-
 -   GDAL is installed at:  `C:\Program Files (x86)\GDAL\`or `C:\Program Files\GDAL\` (mine is the later)
 -   Add `path, gdal_data, gdal_driver_path` to our environment variables:
 
@@ -68,12 +66,13 @@ Check the `GDAL_VERSION` in Anaconda terminal and paste the version in a new env
     GDAL 2.3.3, released 2018/12/14
 
 **7. Install Fiona**
-Install the Fiona library that has Windows binaries according to your python specification from https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona cd to the .whl file. Remember, do not forget to install the Fiona dependencies: `enum34, six, cligj, munch, argparse,` and `ordereddict`
-Redirect to the place where I put the `.whl file download` and then 
+Install the Fiona library that has Windows binaries according to your python specification from https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona `cd` to the `.whl file directory`. Remember, do not forget to install the Fiona dependencies: `enum34, six, cligj, munch, argparse,` and `ordereddict`. 
 
- C:\Users\Hafidz>`pip install Fiona-1.8.13-cp37-cp37m-win_amd64.whl`
+Redirect to the place where I put the `.whl file download` and then run using `pip install`:
+
+     C:\Users\Hafidz>`pip install Fiona-1.8.13-cp37-cp37m-win_amd64.whl`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODE2NDc1MCwtNzI4OTMwMjE2LDExNz
+eyJoaXN0b3J5IjpbMTg1MTc2MTUyNywtNzI4OTMwMjE2LDExNz
 A3ODU3NTUsMTU0Nzk4MTI2NCwtNDYwNjA3MTM1LC0xODQzODg3
 OTU1LC0xNzQyNjIyMzg1LDY4NjUzODU2NywxMjQ2MTg0NTc5LD
 MyNTU5NzE4Miw1NzQyNTQwOTcsLTIyNTc5NzIyOCwtMTU0NjIx
