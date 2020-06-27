@@ -68,12 +68,12 @@ Check the `GDAL_VERSION` in Anaconda terminal and paste the version in a new env
     GDAL 2.3.3, released 2018/12/14
 
 **7. Install Fiona**
-Install the Fiona library that has Windows binaries according to your python specification from https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona 
+Install the Fiona library that has Windows binaries according to your python specification from https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona cd to the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Nzk4MTI2NCwtNDYwNjA3MTM1LC0xOD
-QzODg3OTU1LC0xNzQyNjIyMzg1LDY4NjUzODU2NywxMjQ2MTg0
-NTc5LDMyNTU5NzE4Miw1NzQyNTQwOTcsLTIyNTc5NzIyOCwtMT
-U0NjIxMzU0MSwtNzU3ODcwMSw5OTgxMzI2MTUsMTA0OTQ1NjYw
-OCwxMDE3NTA2MTAsLTE2MDM1NDk4NjYsMTAyMzczOTIzNiwtMT
-kwNDg0NDUzNF19
+eyJoaXN0b3J5IjpbMTE3MDc4NTc1NSwxNTQ3OTgxMjY0LC00Nj
+A2MDcxMzUsLTE4NDM4ODc5NTUsLTE3NDI2MjIzODUsNjg2NTM4
+NTY3LDEyNDYxODQ1NzksMzI1NTk3MTgyLDU3NDI1NDA5NywtMj
+I1Nzk3MjI4LC0xNTQ2MjEzNTQxLC03NTc4NzAxLDk5ODEzMjYx
+NSwxMDQ5NDU2NjA4LDEwMTc1MDYxMCwtMTYwMzU0OTg2NiwxMD
+IzNzM5MjM2LC0xOTA0ODQ0NTM0XX0=
 -->
