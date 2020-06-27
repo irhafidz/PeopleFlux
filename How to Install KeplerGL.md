@@ -69,6 +69,11 @@ Install the Fiona library that has Windows binaries according to your python spe
 Redirect to the place where I put the `.whl file download` and then run using `pip install`:
 
      C:\Users\Hafidz>`pip install Fiona-1.8.13-cp37-cp37m-win_amd64.whl`
+
+
+https://github.com/benfred/implicit/issues/91
+https://medium.com/@rschoudhary1999/installing-fiona-on-windows-10-for-keplergl-6af2628b6fc5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIxNTU0NzIsMTY1Mjc0MDc4MF19
+eyJoaXN0b3J5IjpbNDc2NTg0MzQxLC0xMjUyMTU1NDcyLDE2NT
+I3NDA3ODBdfQ==
 -->
