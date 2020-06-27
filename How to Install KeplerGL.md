@@ -24,8 +24,8 @@ How to check Python Architecture version
    
 
      import platform as p
-        print(p.architecture())
-        ('64bit', 'WindowsPE')
+     print(p.architecture())
+     ('64bit', 'WindowsPE')
 
 
 **3. Download the appropriate GDAL version as your Python architecture (mine is 64bit)**
@@ -70,5 +70,5 @@ Redirect to the place where I put the `.whl file download` and then run using `p
 
      C:\Users\Hafidz>`pip install Fiona-1.8.13-cp37-cp37m-win_amd64.whl`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mjc0MDc4MF19
+eyJoaXN0b3J5IjpbLTExNjIwMjk2MjQsMTY1Mjc0MDc4MF19
 -->
